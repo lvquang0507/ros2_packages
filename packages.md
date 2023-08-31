@@ -9,3 +9,5 @@
 
 ## Ros2 Humble
 `sudo nala install ros-humble-ros2-control ros-humble-ros2-controllers ros-humble-robot-state-publisher ros-humble-joint-state-publisher ros-humble-joint-state-publisher-gui ros-humble-gazebo-ros ros-humble-xacro ros-humble-controller-manager gazebo11 ros-humble-diff-drive-controller ros-humble-joint-trajectory-controller ros-humble-forward-command-controller ros-humble-slam-toolbox ros-humble-gazebo-ros2-control ros-humble-gazebo-ros-pkgs ros-humble-moveit`
+
+`sudo nala install ros-humble-rqt-robot-steering ros-humble-rqt-moveit ros-humble-rqt-image-view ros-humble-rqt-plot ros-humble-rqt-joint-trajectory-controller ros-humble-rqt-robot-monitor ros-humble-rqt-robot-dashboard`
